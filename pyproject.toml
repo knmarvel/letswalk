@@ -8,6 +8,8 @@ authors = ["Kano Marvel <knmarvel@gmail.com>"]
 python = "^3.8"
 django = "^3.0.6"
 flake8 = "^3.8.2"
+postgres = "^3.0.0"
+gunicorn = "^20.0.4"
 
 [tool.poetry.dev-dependencies]
 
